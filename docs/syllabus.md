@@ -6,7 +6,7 @@ Khoury College of Computer Sciences, Northeastern University [Vancouver Campus -
 
 ## Course Instructor
 
-- Parsa Rajabi (He/him)
+- Parsa Rajabi (he/him)
   - **Email:** *p.rajabi at northeastern`DELETEthisTEXT`.edu*
   - Adhere to [email etiquette](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) when reaching out to the instructor.
 
@@ -69,35 +69,58 @@ Giving and receiving feedback is one of the core activities in this class. When 
 
 ## Course Description
 
-<!-- TODO -->
+> Covers the foundations of software engineering, including software development life cycle models (e.g., waterfall, spiral, agile); requirements analysis; user-centered design; software design principles and patterns; testing (functional testing, structural testing, testing strategies); code refactoring and debugging; software architecture and design; and integration and deployment. Includes a course project where some of the software engineering methods (from requirements analysis to testing) are applied in a team-based setting. Requires admission to MS program or completion of all transition courses.
 
 ### Pre-requisites
+
+- Undergraduate level CS 5010 Minimum Grade of D 
+OR
+- Graduate level CS 5004 Minimum Grade of C 
+OR
+- Graduate level CS 5010 Minimum Grade of C
 
 Students must have a strong attention to detail and ability to work in a team environment.
 
 ## Course Objectives
 
 This course is open to all graduate students in the MSCS program, and fulfills the following course objectives:
-<!-- TODO -->
+- Define key software engineering principles, including SDLC methodologies.
+- Explain the phases of the Software Development Life Cycle (SDLC).
+- Apply software engineering concepts to model simple processes.
+- Demonstrate proficiency in Git for version control and collaboration.
+- Plan and organize software development projects using project management techniques.
+- Analyze project constraints using the project management triangle.
+- Illustrate application architecture models and design user-centered interfaces.
+- Create wireframes and prototypes for system interfaces.
+- Implement testing methodologies and evaluate software reliability.
+- Verify and validate software through structured testing.
+- Utilize build automation tools and containerization technologies for Continuous Integration and deployment (CI/CD).
+- Analyze ethical concerns and societal impacts of AI development.
+- Prepare technical and non-technical documentation for software projects.
+- Design and implement a functional web application using modern tools.
+- Demonstrate teamwork and collaboration in group projects.
+- Present project deliverables through reports and demonstrations.
+- Apply presentation skills to highlight the process and the outcome, and communicate it to industry partners.
 
-- Learn presentation skills to highlight the process and the outcome, and communicate it to industry partners.
-
-## Course Textbooks 
+## Course Textbooks (Optional)
 
 Most resources are available via [NU's online library](https://library.northeastern.edu) or [Google Scholar](https://scholar.google.com/). If you have trouble accessing any of the resources, please let the instructor know.
 
-
-
+- Software Engineering, Ian Sommerville, Addison Wesley
+- Design Patterns: Elements of Reusable Object-Oriented Software, Gamma, E., Helm, R., Johnson, R., Vlissides, J.
+- Refactoring: Improving the Design of Existing Code, Martin Fowler, Kent Beck
+- Why Programs Fail: A Guide to Systematic Debugging, Andreas Zeller
 - **Additional readings such as research papers, articles, and blog posts will be provided throughout the course.**
 
 ## Course Evaluation
-<!-- TODO -->
-|      Component       | Weight (%) |
-| :------------------: | :--------: |
-| In-class Activities  |     10     |
-| Seminar Presentation |     10     |
-|     Assignments      |     40     |
-|    Final Project     |     40     |
+|      Component      | Weight (%) |
+| :-----------------: | :--------: |
+| In-class Activities |     10     |
+|        Labs         |     15     |
+|     Assignments     |     25     |
+|    Final Project    |     50     |
+
+Note: Final Project is broken down into multiple deliverables, each with its own weight. Details will be provided in the project description.
 
 *Do not schedule travel or other commitments during the final exam period. Final exam/project dates are set by the university and are not flexible.*
 
@@ -126,8 +149,19 @@ We will use the following scale to convert numerical scores into letter grades:
 ## Topics
 
 The topics for this course are (subject to change):
-<!-- TODO -->
-
+- Version Control: Managing code changes and collaboration.
+- Software Development Life Cycles: Understanding Agile, Waterfall, and DevOps.
+- Ethics in Software Development: Ethical responsibilities.
+- Requirements: system analysis and modelling, requirements engineering
+- High-Level Design: Using UML and architectural frameworks.
+- UX/UI Design: Applying design patterns for user experience and interface.
+- Implementation: Coding standards, code reviews, and pair programming.
+- Build Automation: Continuous integration and deployment.
+- Technical Documentation: Creating clear and concise documentation.
+- Quality Assurance: Ensuring reliability through testing.
+- Debugging: Identifying and fixing defects.
+- Refactoring: Enhancing code structure and performance.
+- Group Dynamics: Understanding team collaboration and psychology.
 
 ## Importance of Group Work and Participation Policy
 
