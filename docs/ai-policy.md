@@ -2,7 +2,7 @@
 
 ## Policy on the Use of AI Content Generators for Coursework.
 
-As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CS 5340 - Introduction to HCI Method. Please note that this policy only applies to CS 5340 in Fall 2024.
+As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CS 5500 - Foundations of Software Engineering. Please note that this policy only applies to CS 5500 in Spring 2025.
 
 In a nutshell, the use of AI tools is permitted for all course content. As part of the course policy, students are required to disclose any use of AI tools for each submission. Failure to follow this policy will be considered a violation of the course/university's academic policy.
 
@@ -54,8 +54,8 @@ Grading will be done based on the rubric on an absolute scale, the use of AI too
 
 **Please note that this policy on the use of AI tools is up for change as the term progresses. Changes will be communicated in-class and via this page.**
 
-Questions about this policy can be directed to the instructor via email with the following email header: _[CS 5340 - AI Policy]_.
+Questions about this policy can be directed to the instructor via email with the following email header: _[CS 5500 - AI Policy]_.
 
 ### Acknowledgements
 
-This policy was originally developed by [Dongwook Yoon](https://dwyoon.com/) at UBC and refined through the feedback of students from multiple courses at UBC and SFU. 
+This policy was originally developed by [Dongwook Yoon](https://dwyoon.com/) at UBC and refined through the feedback of students from multiple courses at UBC, SFU and Northeastern University. 
