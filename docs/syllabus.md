@@ -140,6 +140,13 @@ We will use the following scale to convert numerical scores into letter grades:
 | C-    | 65.00% – 68.99%  |
 | F     | Less than 65.00% |
 
+### Grade Solicitation Policy
+
+Requests for grade adjustments (especially final course grade) based on non-academic reasons are not appropriate and are considered unprofessional. Examples include, but are not limited to, statements such as "I need this grade," "I deserve a higher grade" or any similar personal circumstances.
+
+Students are expected to meet the academic requirements of the course as outlined in this syllabus. Soliciting grade changes undermines the integrity of the evaluation process and may result in a negative impact on your final grade.
+
+If you have concerns about your performance, you are encouraged to seek feedback early and make use of available resources, such as office hours and course support services, to address any challenges proactively.
 
 ## Important Notes
 
