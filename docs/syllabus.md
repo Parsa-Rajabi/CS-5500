@@ -8,7 +8,7 @@ Khoury College of Computer Sciences, Northeastern University [Vancouver Campus -
 
 - Parsa Rajabi (he/him)
   - **Email:** *p.rajabi at northeastern`DELETEthisTEXT`.edu*
-  - Adhere to [email etiquette](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) when reaching out to the instructor.
+  - Adhere to [email etiquette](email-etiquette.md) and/or [How To Email Your Professor](https://personal.math.ubc.ca/~ilaba/teaching/email.html) when reaching out to the instructor.
 
 ### Office Hours
 
@@ -224,9 +224,19 @@ If you feel a course item has been incorrectly assessed you may request that the
 
 Requests must include a written letter for the re-marking and be submitted to the course TA/instructor within 5 business days from receiving the mark or a deadline specified by the TA/instructor, whichever comes first. The request must be signed and submitted via email. 
 
-Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by TA/instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
+> [!WARNING]
+> Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by TA/instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
 
 The re-marking request will be reviewed by the teaching team and if accepted, the item will be re-marked in its entirety by both the course instructor and the marking TA. This may result in a higher, unchanged, or lower mark overall which will be final. 
+
+#### Grade Solicitation Policy
+
+Requests for grade adjustments (especially final course grade) based on non-academic reasons are not appropriate and are considered unprofessional. Examples include, but are not limited to, statements such as "I need this grade," "I deserve a higher grade" or any similar personal circumstances.
+
+Students are expected to meet the academic requirements of the course as outlined in this syllabus. Soliciting grade changes undermines the integrity of the evaluation process and may result in a negative impact on your final grade.
+
+If you have concerns about your performance, you are encouraged to seek feedback early and make use of available resources, such as office hours and course support services, to address any challenges proactively.
+
 
 ### Accommodations
 
