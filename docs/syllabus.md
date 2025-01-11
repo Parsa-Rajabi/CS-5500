@@ -53,6 +53,9 @@ Most lectures will feature interactive activities and/or polls that support the 
 
 Students are expected to attend classes regularly, complete assessments, and submit reports and other work at the times specified by the instructor. Students who are absent repeatedly from class will be evaluated by faculty responsible for the course to ascertain their ability to achieve the course objectives and to continue in the course. Instructors may include, as part of the semester's grades, marks for the quality and quantity of the student's participation in class.
 
+> [!ATTENTION]
+> Students are expected to attend class in person but may use a one-time “remote attendance token” if necessary. To use this token, notify the instructor and TA at least 24 hours in advance. Failure to do so will forfeit the token. Once the token is used, any further absences will be marked as in-person absences.
+
 If you must miss class, regardless of the reason for your absence, it is **your** responsibility to catch up on the material you have missed and obtain the notes from a classmate (not from your instructor or TAs). Failing to attend the class meetings may have a detrimental impact on your ability to pass the course. If a graded activity takes place during class or lab, it is your responsibility to turn it in by the deadline whether you are in class or not. 
 
 Please don’t be late. You are an essential part of the class. Your participation is an essential part of the class. If you are late, please be courteous to others when entering.
@@ -188,7 +191,7 @@ Non-contribution or “free riding” is not acceptable in this course. Every st
 
 ### Late Deliverables
 
-All course items (e.g. assignments, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. In-class activities, exams and final project will not be accepted late. Take-home assignment submissions will be accepted only up to 24 hours after the deadline with a flat 10% penalty regardless of how late it is. After 24 hours, the submission will not be accepted and you will receive a grade of 0 for that item.
+All course items (e.g. assignments, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. In-class activities, exams and final project will not be accepted late. Take-home assignment and lab submissions will be accepted only up to 24 hours after the deadline with a flat 25% penalty regardless of how late it is. After 24 hours, the submission will not be accepted and you will receive a grade of 0 for that item.
  
 Make-up assessments (including assignments, project, exams) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
  
