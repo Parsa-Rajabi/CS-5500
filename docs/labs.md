@@ -10,7 +10,7 @@ This the tentative schedule for all course labs, which is subject to change with
 
 | Labs  | Due Date |                              Link                              |
 | :---: | :------: | :------------------------------------------------------------: |
-| Lab 1 |          | [Accept L1 on Github](https://classroom.github.com/a/_5PKSdkR) |
+| Lab 1 |  Jan 18  | [Accept L1 on Github](https://classroom.github.com/a/_5PKSdkR) |
 
 ### AI Usage Disclosure
 
