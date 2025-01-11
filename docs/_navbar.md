@@ -1,3 +1,4 @@
 - [Syllabus](syllabus)
 - [AI Policy](ai-policy)
+- [Labs](labs)
 - [Feedback](feedback)
