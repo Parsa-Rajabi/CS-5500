@@ -125,6 +125,8 @@ Most resources are available via [NU's online library](https://library.northeast
 
 Note: Final Project is broken down into multiple deliverables, each with its own weight. Details will be provided in the project description.
 
+The maximum score for each course component is 100%. The final grade will be calculated based on the weighted average of the components.
+
 *Do not schedule travel or other commitments during the final exam period. Final exam/project dates are set by the university and are not flexible.*
 
 ## Grade Conversion
