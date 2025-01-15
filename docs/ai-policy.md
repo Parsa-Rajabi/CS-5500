@@ -1,5 +1,9 @@
 # AI-usage Course Policy
 
+## Disclosure of AI Use
+
+- Link to the [AI Use Disclosure Form](https://forms.office.com/r/swC5VmQm7A)
+
 ## Policy on the Use of AI Content Generators for Coursework.
 
 As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CS 5500 - Foundations of Software Engineering. Please note that this policy only applies to CS 5500 in Spring 2025.
