@@ -11,6 +11,11 @@ This the tentative schedule for all course labs, which is subject to change with
 | Labs  | Due Date |                              Link                              |
 | :---: | :------: | :------------------------------------------------------------: |
 | Lab 1 |  Jan 18  | [Accept L1 on Github](https://classroom.github.com/a/_5PKSdkR) |
+| Lab 2 |  Feb 1   | [Accept L2 on Github](https://classroom.github.com/a/9nfRjEmM) |
+| Lab 3 |  Feb 22  | [Accept L3 on Github](https://classroom.github.com/a/M6Wy76yH) |
+| Lab 4 | March 15  | [Accept L4 on Github](https://classroom.github.com/a/FxL4_mZT) |
+| Lab 5 |  Apr 5   | [Accept L5 on Github](https://classroom.github.com/a/LuL6jqKo) |
+
 
 ### AI Usage Disclosure
 
