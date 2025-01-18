@@ -12,16 +12,16 @@ Khoury College of Computer Sciences, Northeastern University [Vancouver Campus -
 
 ### Office Hours
 
-- TBA
+- Saturdays, 12:30-1, 3-4pm, contact via email to book a slot.
 
 ## Course TA
 
 - Xiaolai Chen (He/him)
-  - **Email:** *xiaolai.chen at northeastern`DELETEthisTEXT`.edu*
+  - **Email:** *chen.xiaola at northeastern`DELETEthisTEXT`.edu*
 
 ### Office Hours
 
-- TBA
+- Fridays, 10-12pm, Book [using this link](https://outlook.office.com/bookwithme/user/7ac9bf05417e464ba22110e35b0d49ea@northeastern.edu/meetingtype/ZTmyspR_HESp4vIjzOlDiA2?anonymous&ep=mlink)
   
 ## Lectures
 
