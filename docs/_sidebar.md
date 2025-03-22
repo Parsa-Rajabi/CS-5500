@@ -1,6 +1,6 @@
 - [Syllabus](syllabus)
 - [AI Policy](ai-policy)
-- [AI Policy](ai-policy)
+- [Peer Testing](peer-testing)
 - [Labs](labs)
 - [Resources](resources)
 - [Feedback](feedback)
