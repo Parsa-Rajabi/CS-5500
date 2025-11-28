@@ -2,7 +2,7 @@
 
 ## Disclosure of AI Use
 
-- Link to the [AI Use Disclosure Form](https://forms.office.com/r/swC5VmQm7A)
+- Link to the [AI Use Disclosure Form]()
 
 ## Policy on the Use of AI Content Generators for Coursework.
 

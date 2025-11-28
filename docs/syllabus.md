@@ -2,7 +2,7 @@
 
 Khoury College of Computer Sciences, Northeastern University [Vancouver Campus - West Georgia]
 
-**Spring 2025 - CS 5500 || Foundations of Software Engineering (4)**
+**Spring 2026 - CS 5500 || Foundations of Software Engineering (4)**
 
 ## Course Instructor
 
@@ -12,28 +12,18 @@ Khoury College of Computer Sciences, Northeastern University [Vancouver Campus -
 
 ### Office Hours
 
-- Saturdays, 12:30-1, 3-4pm, contact via email to book a slot.
-
-## Course TA
-
-- Xiaolai Chen (He/him)
-  - **Email:** *chen.xiaola at northeastern`DELETEthisTEXT`.edu*
-
-### Office Hours
-
-- Fridays, 10-12pm, Book [using this link](https://outlook.office.com/bookwithme/user/7ac9bf05417e464ba22110e35b0d49ea@northeastern.edu/meetingtype/ZTmyspR_HESp4vIjzOlDiA2?anonymous&ep=mlink)
+- TBA
   
 ## Lectures
 
 Delivery Method: In-person (flipped classroom)
 
-- **Saturdays 1:00-3:00 PM - Room 1524**
+- **Tuesdays 7:00-9:00 PM - Room TBA**
 - Vancouver Campus* - West Georgia
 
 #### Land Acknowledgement*
 
 We acknowledge that the land on which we gather is the unceded territory of the Coast Salish Peoples, including the territories of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səl̓ílwətaɬ (Tsleil-Waututh) Nations.
-
 
 ### Pre-readings (Flipped Classroom) 
 
@@ -116,18 +106,19 @@ Most resources are available via [NU's online library](https://library.northeast
 - **Additional readings such as research papers, articles, and blog posts will be provided throughout the course.**
 
 ## Course Evaluation
-|      Component      | Weight (%) |
-| :-----------------: | :--------: |
-| In-class Activities |     10     |
-|        Labs         |     15     |
-|     Assignments     |     25     |
-|    Final Project    |     50     |
 
-Note: Final Project is broken down into multiple deliverables, each with its own weight. Details will be provided in the project description.
+|            **Item**             | **Weight** |
+| :-----------------------------: | :--------: |
+|        In-class Activity        |    10%     |
+|              Labs               |    15%     |
+| Minimal Viable Product Delivery |    25%     |
+|     Final Product Delivery      |    50%     |
 
-The maximum score for each course component is 100%. The final grade will be calculated based on the weighted average of the components.
+Note: Both MVP and Final Project are broken down into multiple deliverables, each with its own weight. Details will be provided in the project description.
 
-*Do not schedule travel or other commitments during the final exam period. Final exam/project dates are set by the university and are not flexible.*
+Students are expected to participate in the end of semester project showcase event (to be held mid to late April). Details will be provided closer to the date. Please do not schedule travel or other commitments until the date is announced.
+
+*The maximum score for each course component is 100%. The final grade will be calculated based on the weighted average of the components.*
 
 ## Grade Conversion
 
