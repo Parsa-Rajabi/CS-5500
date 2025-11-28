@@ -1,4 +1,5 @@
 - [Syllabus](syllabus)
+- [Schedule](schedule)
 - [Peer Testing](peer-testing)
 - [AI Policy](ai-policy)
 - [Labs](labs)
